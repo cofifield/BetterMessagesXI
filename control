@@ -1,0 +1,10 @@
+Package: io.github.cofifield.bettermessagesxi
+Name: BetterMessagesXI
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Change and add a range of features to the iOS 11 Messages App
+Maintainer: Carter Fifield <cftweaks@gmail.com>
+Author: Carter Fifield <cftweaks@gmail.com>
+Section: Tweaks
+Depiction: https://cofifield.github.io/depictions/?p=io.github.cofifield.bettermessagesxi

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+      <array>
+        <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>headerCellClass</key>
+            <string>HBImageTableCell</string>
+            <key>height</key>
+            <integer>100</integer>
+            <key>icon</key>
+            <string>header.png</string>
+        </dict>
+        <!-- <dict>
+          <key>cell</key>
+          <string>PSGroupCell</string>
+          <key>label</key>
+          <string> </string>
+        </dict> -->
+        <dict>
+      <key>cell</key>
+      <string>PSLinkCell</string>
+      <key>detail</key>
+      <string>Theme</string>
+      <key>isController</key>
+      <string>1</string>
+      <key>label</key>
+      <string>Theme</string>
+      <key>icon</key>
+      <string>theme@3x.png</string>
+    </dict>
+    <dict>
+  <key>cell</key>
+  <string>PSLinkCell</string>
+  <key>detail</key>
+  <string>Hide</string>
+  <key>isController</key>
+  <string>1</string>
+  <key>label</key>
+  <string>Hide</string>
+  <key>icon</key>
+  <string>hide@3x.png</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSLinkCell</string>
+<key>detail</key>
+<string>Misc</string>
+<key>isController</key>
+<string>1</string>
+<key>label</key>
+<string>Misc</string>
+<key>icon</key>
+<string>Misc@3x.png</string>
+</dict>
+<dict>
+<key>cell</key>
+<string>PSLinkCell</string>
+<key>detail</key>
+<string>Credits</string>
+<key>isController</key>
+<string>1</string>
+<key>label</key>
+<string>Credits</string>
+<key>icon</key>
+<string>credits@3x.png</string>
+</dict>
+            <dict>
+        			<key>FooterText</key>
+        			<string>Respring to apply changes.</string>
+        			<key>cell</key>
+        			<string>PSGroupCell</string>
+        		</dict>
+        		<dict>
+        			<key>action</key>
+        			<string>respring</string>
+        			<key>cell</key>
+        			<string>PSButtonCell</string>
+        			<key>label</key>
+        			<string>Apply Changes</string>
+              <key>icon</key>
+              <string>respring@3x.png</string>
+        		</dict>
+            <dict>
+            <key>cell</key>
+            <string>PSGroupCell</string>
+            <key>footerText</key>
+            <string></string>
+            <key>label</key>
+            <string></string>
+            </dict>
+
+    </array>
+    <key>title</key>
+    <string>BetterMessagesXI</string>
+</dict>
+</plist>

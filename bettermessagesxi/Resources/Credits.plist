@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+		<key>cell</key>
+		<string>PSGroupCell</string>
+		<key>footerText</key>
+		<string></string>
+		<key>label</key>
+		<string>Ported to iOS 11</string>
+		</dict>
+		<dict>
+		<key>big</key>
+		<string>56</string>
+		<key>cellClass</key>
+		<string>HBTwitterCell</string>
+		<key>label</key>
+		<string>Carter Fifield</string>
+		<key>user</key>
+		<string>cofifield</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>This tweak wouldn't be as awesome without these people</string>
+			<key>label</key>
+			<string>Original Credits</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>eta_son</string>
+			<key>user</key>
+			<string>eta_son</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Cyber_Smith1</string>
+			<key>user</key>
+			<string>cyber_smith1</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>iKilledAppl3</string>
+			<key>user</key>
+			<string>iKilledAppl3</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Wizages</string>
+			<key>user</key>
+			<string>Wizages</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>CydiaGeek</string>
+			<key>user</key>
+			<string>CydiaGeek</string>
+			</dict>
+			<dict>
+			<key>big</key>
+			<string>56</string>
+			<key>cellClass</key>
+			<string>HBTwitterCell</string>
+			<key>label</key>
+			<string>Sticktron</string>
+			<key>user</key>
+			<string>Sticktron</string>
+			</dict>
+			<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string></string>
+			<key>label</key>
+			<string>Donate</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>paypalco</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Donate to cofifield via PayPal</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>charity</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Donate to Mental Health America via PayPal</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>paypal</string>
+			<key>icon</key>
+			<string>paypal.png</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>Donate to Cyber_Smith1 via PayPal</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string> </string>
+			<key>label</key>
+			<string> </string>
+			</dict>
+		<dict>
+			<key>action</key>
+			<string>github</string>
+			<key>footerText</key>
+			<string>Icons from flaticon.com</string>
+			<key>icon</key>
+			<string>github.png</string>
+			<key>cell</key>
+			<string>PSButtonCell</string>
+			<key>cellClass</key>
+			<string>HBTintedTableCell</string>
+			<key>label</key>
+			<string>View Source Code on GitHub</string>
+		</dict>
+</array>
+<key>title</key>
+<string>Credits</string>
+</dict>
+</plist>
